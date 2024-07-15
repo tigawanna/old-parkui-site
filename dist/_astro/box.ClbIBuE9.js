@@ -1,0 +1,1 @@
+import{r as s}from"./index.B1Zo4ZAB.js";import{r as f,s as m,t as l,u as i}from"./tree-view.D9ir_m6l.js";const o={transform(t){return t}},x=(t={})=>{const r=f(o,t);return o.transform(r,m)},y=s.forwardRef(function(r,e){const[n,a]=l(r,[]),p=x(n),c={ref:e,...p,...a};return s.createElement(i.div,c)});export{y as B};
